@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+body {
+    overflow-x: hidden;
+}
+.titre{
+    background-color:#f1c530;
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.LOGO1{
+    width: 50PX;
+
+}
+.logo{
+    display: flex;
+    margin: 0%;
+    justify-self: center;
+    padding: 1%;
+    justify-items: center;
+    transform: translate(60px);
+    align-items: center;
+
+}
+.titre1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    transform: translate(300px);
+}
+.titre2{
+    width: 150PX;
+}
+.venom{
+    background-image: url(../images/img7.png);
+    height: 600px;
+    background-position: ;
+}
+.infos{
+    border-left: 4px solid black;
+    border-bottom: 4px solid black;
+    border-right: 4px solid black;
+    border-radius: 0  0  20px 20px;
+}
+.carredine img{
+    width: 100%;
+    
+}
+.dennis{
+    display: block;
+    width: 300px;
+    margin: 50px 20px;
+}
+.l-vilains{
+    background-color: #f1c530;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.bold{
+    font-weight: 800;
+}
+.super-vilains{
+    padding-top: 200px;
+    padding-left: 100px;
+    font-weight: 500;
+    font-size: xxx-large;
+}
+.super{
+    padding-left: 90px;
+    color: white;
+}
+
+.farany{
+    display: block;}
+    .footer{
+        display: flex;
+        background-color: black;
+        padding-bottom: 80px;
+    }
+    .footer1{
+        background-color: black;
+    }
+    .footer1 , .footer2 ,.footer {
+        justify-content: space-around;
+        color: white;
+     }
+     .mobil-app{
+         display: flex;
+         margin: 10px;
+     }
+    .footer2{
+        display: flex;
+        justify-self: center;
+        text-align: center;
+    }
+    .footer3{
+        width: 50px;
+        transform: translate(-120px);
+    }
+    .cookies{
+        transform: translate(60px);
+    }
+    .politique{
+        transform: translate(6px);
+    }
+    .mobil{
+        transform: translate(-30px);
+    }
+    .footer div{
+        text-align: center;
+        align-items: center;
+    }
+    .select{
+        text-align: center;
+    }
+    .contact{
+        transform: translate(-80px);
+    }
+    .blog{
+        transform: translate(-20px);
+    }
+    select{
+        transform: translate(30px);
+        border: none;
+         border-radius: 5px ;
+         color: white;
+        background-color: #B11313;
+        width: 100px;
+    }
+    .sayna{
+        transform: translate(-90px);
+    }
+    .logo3{
+        transform: translate(10px);
+    }
+    .croix{
+        transform: translate(15px);
+    }
+    .face5{
+        background-color: #B11313;
+        width: 50px;
+        margin: 8px;
+        border-radius: 50%;
+        padding: 8px;
+    }  
+    .face-insta{
+        display: flex;
+        text-align: center;
+        margin: auto;
+        width: 10%;
+    } 
+    .fin{
+        text-align: center;
+        
+    }
+    .farany{
+        display: none;
+    }
+    .tsita{
+        display:none;
+    }
+    .petite{
+        display:none;
+    }
+@media screen and (max-width:600px) {
+   
+    .heros{
+        padding-top:200px;
+        transform: translate(-100px);
+        
+    }
+    .un-heros{
+        font-size: xx-large;
+    }
+    .un-responsabilite{
+        font-size: small;
+        width: 350px;
+    }
+    
+    .boutton{
+        display: block;
+    }
+    .face2{
+        transform: translate(80px);
+    }
+    .face{
+        width: 150PX;
+        margin: 5px;
+    } 
+    
+    .farany{
+        display: block;
+    }
+    .face-insta{
+        transform: translate(-100px);
+    }
+    .select{
+        transform:translateY(-240px);
+        width: 220px;
+        border: 5px solid none;
+    }
+    .logo3{
+        transform: translate(200px);
+    }
+    .croix{
+        transform: translate(200px);
+    }
+    .sayna{
+        transform: translate(90px);
+    }
+    .super-vilains{
+        padding-top: 100px;
+    }
+}
+@font-face {
+    font-family:amboara ;
+    src: url(../logo/Far-From\ Homecoming\ Updated.otf);
+}
+.test-toile{
+    font-family:amboara;
+    color:white;
+}

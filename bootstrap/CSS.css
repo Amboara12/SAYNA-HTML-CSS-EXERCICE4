@@ -1,0 +1,608 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+body {
+    overflow-x: hidden;
+}
+.titre{
+    background-color:#B11313;
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.LOGO1{
+    width: 50PX;
+
+}
+.logo{
+    display: flex;
+    margin: 0%;
+    justify-self: center;
+    padding: 1%;
+    justify-items: center;
+    transform: translate(60px);
+    align-items: center;
+
+}
+.titre1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    transform: translate(300px);
+}
+.titre2{
+    width: 150PX;
+}
+.trois-point{
+    color: white;
+    display: none;
+}
+.spider{
+    transform:rotateY(180deg) translate(-800px)
+
+}
+.fond-jaune{
+    background-color:#F1C530;
+    
+}
+.mileu{
+ transform: translate(100px);
+}
+.toile{
+    transform: translate(180px, 250px); 
+    width: px;
+
+    
+}
+.toile p{
+    font-size: xx-large;
+}
+.fond-rouge{
+    background-color: #B11313;
+    
+}
+.contenue-rouge{
+   
+  margin: auto;
+}
+.test-toile{
+    display: flex;
+    justify-content: start;
+    padding-left: 10%;
+}
+.text{
+    color: white;
+    justify-content: start;
+    padding-left: 10%;
+}
+.spider-avec-phone{
+    transform: translate(130px);
+    width: 450PX;
+}
+.filaharana-sary{
+    display: flex;
+}
+.nom{
+    transform: translate(180px);
+   
+}
+.nom input {
+      border-radius: 1em ;
+      border: 1px solid white;
+      background-color: #B11313;
+      color: white;
+      margin: 1px;
+      width: 100%;
+}
+.nom1{
+     border-radius: 5px solid white;
+     color: white;
+     align-items: center;
+     padding: 5px;
+
+}
+.text-message{
+    transform: translate(190px);
+    border-radius: 1em ;
+    background-color: #B11313;
+}
+.envoyer1{
+    transform: translate(280px);
+    width: 100px;
+    border: 1px solid; 
+    border-radius: 5px;
+    color: white;
+    background-color: #B11313;
+}
+.bleu{
+    background-color: #114c92;
+}
+.texte{
+    display: flex;
+}
+.presentation{
+    transform: translate(140px);
+}
+.TEXTE{
+    width: 80%;
+    margin: auto;
+}
+.texte1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pa{
+    width: 50%;
+    color: white;
+}
+.midina{
+    transform: translate(-140px);
+}
+.boutton{
+    display: flex;
+    margin: 0 2%;
+    padding: 3%;
+    justify-content: space-between;
+    color: white;
+    
+}
+.face{
+    width: 20%;
+    justify-content: space-between;
+    border-radius:1em;
+    background-color: #114c92;
+    align-items: center;
+     border: 1px solid white;
+}
+.boutton p{
+    color: white;
+    align-items: center;
+    padding-top: 10px;
+  
+}
+.footer{
+    display: flex;
+    background-color: black;
+    padding-bottom: 80px;
+}
+.footer1{
+    background-color: black;
+}
+.footer1 , .footer2 ,.footer {
+    justify-content: space-around;
+    color: white;
+ }
+ .mobil-app{
+     display: flex;
+     margin: 10px;
+ }
+.footer2{
+    display: flex;
+    justify-self: center;
+    text-align: center;
+}
+.footer3{
+    width: 50px;
+    transform: translate(-120px);
+}
+.cookies{
+    transform: translate(60px);
+}
+.politique{
+    transform: translate(6px);
+}
+.mobil{
+    transform: translate(-30px);
+}
+.footer div{
+    text-align: center;
+    align-items: center;
+}
+.select{
+    text-align: center;
+}
+.contact{
+    transform: translate(-80px);
+}
+.blog{
+    transform: translate(-20px);
+}
+select{
+    transform: translate(30px);
+    border: none;
+     border-radius: 5px ;
+     color: white;
+    background-color: #B11313;
+    width: 100px;
+}
+.sayna{
+    transform: translate(-90px);
+}
+.logo3{
+    transform: translate(10px);
+}
+.croix{
+    transform: translate(15px);
+}
+.face5{
+    background-color: #B11313;
+    width: 50px;
+    margin: 8px;
+    border-radius: 50%;
+    padding: 8px;
+}  
+.face-insta{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    width: 10%;
+} 
+.fin{
+    text-align: center;
+    
+}
+.farany{
+    display: none;
+}
+.tsita{
+    display:none;
+}
+.petite{
+    display:none;
+}
+.batman{
+    background-image: url(../images/img35.png);
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
+
+.spider-man-mavel{
+    background-color: #B11313;
+     background-image: url(../images/img1.png);
+     background-size: contain;
+     padding-top: 500px;
+     height:500%;
+     
+     background-repeat:no-repeat ;
+     max-width: 100%;
+     height: auto;
+     
+     
+}
+.spiderman-marvel{
+    transform: translateY(-250px);
+    
+    
+}
+.fotsy{
+    font-size: xxx-large;
+}
+.voir-heros{
+    transform:translate(90px);
+    width:160px;
+     border: 0px solid white;
+     border-radius: 20px;
+     height: 55px;
+     color:#770202;
+     background-color:white;
+}
+.voir-advesraire{
+    transform: translate(120px);
+    border-radius:20px ;
+    border: 1px solid white;
+    background-color: #770202;
+    width: 160px;
+    height: 55px;
+    color: white;
+}
+.araigne{
+    transform: translate(100px ,-230px);
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+    width: 80%;
+}
+.texte-ambany{
+    transform: translate(100px);
+    color: white;
+    width: 80%;
+}
+.cinema{
+    font-size: x-large;
+    width: 80%;
+}
+.hero-adversaire{
+    width: 80%;
+}
+.fond-mena{
+    background-color: #B11313;
+    width: 100%;
+}
+.trois-spider-man div{
+    width:80%;
+    margin: 0 auto;
+    
+    
+    
+}
+
+.trois-spider-man{
+    display: flex;
+    
+    margin: auto;
+    width: 90%;
+    justify-content: space-around;
+    align-content: flex-end;
+
+}
+.lova{
+
+    display: block;
+}    
+.trois-spider-man p {
+    text-align: justify;
+    color: white;
+}
+.trois-spider-man img{
+    width: 100%;
+}
+.spider1  {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.b-spider1{
+    background-color: white;
+    color: #B11313;
+    transform: translate(60px);
+}
+.b-spider2{
+    background-color: white;
+    color: #B11313;
+    transform: -90px;
+}
+.b-spider3{
+    background-color: white;
+    color: #B11313;
+    transform: translate(50px);
+}
+.fond-manga{
+    background-color: #114c92;
+    display: flex;
+}
+.devien-spiderman{
+    display: block;
+    transform: translate(180px);
+}
+input{
+    display: block;
+    margin: 20px;
+    border-radius: 50px;
+    border: 1px solid black;
+    width: 80%;
+    height: 40px;
+    padding-right: 10PX;
+    padding-left: 10PX;
+}
+.e{
+    width: 30%;
+    height: 40px;
+    border-radius: 10px;
+    transform: translate(100px);
+    background-color: #114c92;
+    border: 1px solid white;
+    color: white;
+}
+.fond-mena{
+    background-color:rgb(201, 24, 24) ;
+}
+.nom-prenom{
+    width: 20%;
+    transform: translate(120PX);
+    background-color:rgb(201, 24, 24);
+    border-radius: 50px;
+    border: 1px solid white;
+    
+}
+.adresse-email{
+    width: 20%;
+    transform: translate(120PX);
+    background-color:rgb(201, 24, 24) ;
+    border-radius: 50px;
+    border: 1px solid white;
+}
+.M{
+    color: white;
+    transform: translate(120PX);
+}
+.checkbox{
+    display: flex;
+    align-items: center;
+    transform: translate(20px);
+}
+.x1{
+    width: 2%;
+    transform: translate(100px);
+}
+.je-reconnais{
+    transform: translate(100px);
+    color: white;
+}
+.new-sletter{
+    transform: translate(190px);
+    width: 14%;
+    height: 50px;
+    border-radius: 35px;
+    background-color: white;
+    color: #B11313;
+    font-weight: 700;
+    border: 2px solid white;
+}
+.img5{
+
+}
+.un-heros{
+    padding-top: 400px;
+    font-size: xx-large;
+}
+.comming-soon{
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+
+
+@media screen and (max-width:600px) {
+    .logo img{
+        width:40px;
+
+    }
+    .titre1{
+        display: none;
+    }
+    .marvel img{
+        width: 100px;
+    }
+  
+    
+    .trois-point{
+        transform: translate(200px);
+        width: 100px;
+        display: block;
+    }
+    .toile{
+        display:none ;
+    }
+    .spider{
+         transform: translate(130px) rotateY(180deg);
+         width:62%;
+         }
+         
+    
+    .spider-avec-phone{
+        transform: translate(120px);
+        margin: auto;
+    
+    }
+    .filaharana-sary{
+        display: block;
+        width: 40%;
+        transform: translate(-145PX);
+    }
+    .presentation{
+        transform: translate(70PX);
+    }
+    .fond-rouge{
+        height:120%;
+        padding: 40PX;
+    }
+    .envoyer1{
+        transform: translate(200PX);
+    }
+    .nom{
+        width: 400px;
+        transform: translate(80PX);
+    }
+    .text-message{
+        width: 250%;
+        transform: translate(70PX);
+    }
+    .pa{
+    
+        width: 100%;
+    }
+    .boutton{
+        display: block;
+    }
+    .face2{
+        transform: translate(80px);
+    }
+    .face{
+        width: 150PX;
+        margin: 5px;
+    } 
+    .contact{
+        display: none;
+    }
+    .blog{
+        display: none;
+    }
+    .mobil{
+        display: none;
+    }
+    .politique{
+        display: none;
+    }
+    .cookies{
+        display: none;
+    }
+    .farany{
+        display: block;
+    }
+    .face-insta{
+        transform: translate(-100px);
+    }
+    .select{
+        transform:translateY(-240px);
+        width: 220px;
+        border: 5px solid none;
+    }
+    .logo3{
+        transform: translate(200px);
+    }
+    .croix{
+        transform: translate(200px);
+    }
+    .sayna{
+        transform: translate(90px);
+    }
+
+    .manitsy{
+        display: flex;
+    }
+    .pas-rouge{
+        background-color: transparent;
+        display: none;
+    }
+    .spider-man-mavel-mobil{
+        
+    
+    }
+    .trois-spider-man{
+        display: block;
+    }
+    .b-spider2{
+        transform: translate(50px);
+    }
+   
+    .LANGUE{
+        transform: translate(8px , -80px);
+        width: 100px;
+        height: 30px;
+    }
+    .new-sletter{
+        width: auto;
+    }
+    .devien-spiderman{
+        transform:translate(-500px);
+    
+    }
+     form input{
+         width: 300px;
+         border-radius: 50px;
+     }
+}
+@font-face {
+    font-family:amboara ;
+    src: url(../logo/Far-From\ Homecoming\ Updated.otf);
+}
+.test-toile{
+    font-family:amboara;
+    color:white;
+}

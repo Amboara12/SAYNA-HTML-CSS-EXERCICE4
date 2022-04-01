@@ -1,0 +1,382 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+body {
+    overflow-x: hidden;
+}
+.titre{
+    background-color:#114C92;
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.LOGO1{
+    width: 50PX;
+
+}
+.logo{
+    display: flex;
+    margin: 0%;
+    justify-self: center;
+    padding: 1%;
+    justify-items: center;
+    transform: translate(60px);
+    align-items: center;
+
+}
+.titre1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    transform: translate(300px);
+}
+.titre2{
+    width: 150PX;
+}
+.trois-point{
+    color: white;
+    display: none;}
+.spider-heros{
+    background-image: url(../images/img19.png);
+     background-size: cover;
+     height:600px;
+     padding-left: 200px;
+     background-position: 100% 100%;
+}
+.heros{
+    color: white;
+    padding-top: 300px;
+}
+.un-heros{
+    font-weight: 500;
+    font-size: xxx-large;
+}
+.un-responsabilite{
+    font-size: x-large;
+}
+.fond-manga{
+    background-color: #114C92;
+}
+.valeur{
+    width: 80%;
+     margin: auto;   
+     padding: 50px;               
+}
+.depasse{
+    color: white;
+}
+.texte-peter{
+    width: 90%;
+    color: white;
+    font-size: small;
+    font-weight: normal;
+    text-align: justify;
+}
+.un-grand{
+    font-weight: 900;
+}
+.video{
+    display: flex;
+}
+.des-fondations{
+    background-image: url(../images/img20.png);
+    height: 460px;
+}
+video{
+    width: 90%;
+    height:auto;
+    margin-left: 100PX;
+}
+.spider-solides{
+    margin-left: 100px;
+    padding-top: 200px;
+}
+.DES-FONDATIONS{
+    font-size: xx-large;
+}
+.fond-bleu{
+    background-color: #114C92;
+    
+    width: 100%;
+}
+.TEXTE2{
+    width: 80%;
+    display: flex;
+    padding: 10px;
+    margin: auto;
+    color: white;
+}
+.jamais-seul{
+    padding-left: 128px;
+    margin: auto;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.sary-roa{
+    padding-left: 130px;
+}
+.img21{
+    width:50%;
+}
+.img22{
+    width: 40%;
+    transform: translate(-110px ,70px);
+}
+.SARY-ROA{
+    display: flex;
+}
+.LAVA{
+    width: 50%;
+    padding-right: 80px;
+    color: white;
+}
+.mj{
+    display: flex;
+}
+.mj-gwen{
+    text-align: justify;
+    width: 40%;
+    color: white;
+    padding: 5px;
+}
+.amboara{
+    margin-left: 90px;
+}
+.img23{
+    transform:translate(-400px ,20px);
+}
+.img24{
+    transform:translate(-140px ,-184px);
+}
+.img25{
+    transform:translate(-271px ,-190px);
+}
+.iron-man{
+    display: flex;
+    background-color: #b11313;
+}
+.sary-avengers{
+    background-color: #b11313;
+
+}
+.manambatra{
+    display: flex;
+    margin: 0 50px;
+}
+.img32{
+    width: 100%;
+}
+.sary-avengers p{
+    padding:0px 0px 50px  0px;
+
+}
+.captain-america p{
+    line-height: 22.8px;
+    text-align: justify;
+}
+.hulk{
+    margin: 0 50px;
+}
+.texte-farany{
+    width: 30%;
+    text-align: justify;
+    background-color: #003c8662;
+}
+.univers-hyper{
+    background-image: url(../images/img33.png);
+    ;
+}
+.alohany {
+    transform: translate(800PX);
+}
+.spidey{
+    background-color:#003c8662; 
+    width: 30%;
+    color: white;
+}
+.RICHE{
+    background-color:#003c8662; 
+    width: 30%;
+}
+.farany{
+    display: block;}
+    .footer{
+        display: flex;
+        background-color: black;
+        padding-bottom: 80px;
+    }
+    .footer1{
+        background-color: black;
+    }
+    .footer1 , .footer2 ,.footer {
+        justify-content: space-around;
+        color: white;
+     }
+     .mobil-app{
+         display: flex;
+         margin: 10px;
+     }
+    .footer2{
+        display: flex;
+        justify-self: center;
+        text-align: center;
+    }
+    .footer3{
+        width: 50px;
+        transform: translate(-120px);
+    }
+    .cookies{
+        transform: translate(60px);
+    }
+    .politique{
+        transform: translate(6px);
+    }
+    .mobil{
+        transform: translate(-30px);
+    }
+    .footer div{
+        text-align: center;
+        align-items: center;
+    }
+    .select{
+        text-align: center;
+    }
+    .contact{
+        transform: translate(-80px);
+    }
+    .blog{
+        transform: translate(-20px);
+    }
+    select{
+        transform: translate(30px);
+        border: none;
+         border-radius: 5px ;
+         color: white;
+        background-color: #B11313;
+        width: 100px;
+    }
+    .sayna{
+        transform: translate(-90px);
+    }
+    .logo3{
+        transform: translate(10px);
+    }
+    .croix{
+        transform: translate(15px);
+    }
+    .face5{
+        background-color: #B11313;
+        width: 50px;
+        margin: 8px;
+        border-radius: 50%;
+        padding: 8px;
+    }  
+    .face-insta{
+        display: flex;
+        text-align: center;
+        margin: auto;
+        width: 10%;
+    } 
+    .fin{
+        text-align: center;
+        
+    }
+    .farany{
+        display: none;
+    }
+    .tsita{
+        display:none;
+    }
+    .petite{
+        display:none;
+    }
+        
+@media screen and (max-width:600px) {
+.titre{
+    display: none;
+}
+.heros{
+    padding-top:200px;
+    transform: translate(-100px);
+    
+}
+.un-heros{
+    font-size: xx-large;
+}
+.un-responsabilite{
+    font-size: small;
+    width: 350px;
+}
+
+.boutton{
+    display: block;
+}
+.face2{
+    transform: translate(80px);
+}
+.face{
+    width: 150PX;
+    margin: 5px;
+} 
+.contact{
+    display: none;
+}
+.blog{
+    display: none;
+}
+.mobil{
+    display: none;
+}
+.politique{
+    display: none;
+}
+.cookies{
+    display: none;
+}
+.farany{
+    display: block;
+}
+.face-insta{
+    transform: translate(-100px);
+}
+.select{
+    transform:translateY(-240px);
+    width: 220px;
+    border: 5px solid none;
+}
+.logo3{
+    transform: translate(200px);
+}
+.croix{
+    transform: translate(200px);
+}
+.sayna{
+    transform: translate(90px);
+}
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@font-face {
+    font-family:amboara ;
+    src: url(../logo/Far-From\ Homecoming\ Updated.otf);
+}
+.test-toile{
+    font-family:amboara;
+    color:white;
+}
